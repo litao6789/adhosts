@@ -1,7 +1,20 @@
-127.0.0.1		ubmcmm.baidustatic.com
-127.0.0.1		cpro.baidu.com
-127.0.0.1		pos.baidu.com
-127.0.0.1		uimg.unionli.com
+##ADS
+127.0.0.1                ubmcmm.baidustatic.com
+127.0.0.1                cpro.baidu.com
+127.0.0.1                pos.baidu.com
+127.0.0.1                uimg.unionli.com
+
 127.0.0.1		adclick.g.doubleclick.net
+127.0.0.1       rs.qiyou.com
+127.0.0.1       static.mediav.com
+127.0.0.1       material.mediav.com 
+127.0.0.1       static.googleadsserving.cn
+127.0.0.1       googleads.g.doubleclick.net
+127.0.0.1       pagead1.googlesyndication.com
+127.0.0.1       pagead2.googlesyndication.com
+127.0.0.1       pagead3.googlesyndication.com
+127.0.0.1       click.union.jd.com
+127.0.0.1       snippet.pos.baidu.com
+127.0.0.1       cb.baidu.com
 
 
