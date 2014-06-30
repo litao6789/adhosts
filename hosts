@@ -1,4 +1,4 @@
-##ADS
+##ADS begin
 127.0.0.1                ubmcmm.baidustatic.com
 127.0.0.1                cpro.baidu.com
 127.0.0.1                pos.baidu.com
@@ -16,5 +16,6 @@
 127.0.0.1       click.union.jd.com
 127.0.0.1       snippet.pos.baidu.com
 127.0.0.1       cb.baidu.com
+127.0.0.1       cpro.baidustatic.com
 
-
+##ADS end
