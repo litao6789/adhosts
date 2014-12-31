@@ -4,7 +4,7 @@
 127.0.0.1                pos.baidu.com
 127.0.0.1                uimg.unionli.com
 
-127.0.0.1		adclick.g.doubleclick.net
+127.0.0.1       adclick.g.doubleclick.net
 127.0.0.1       rs.qiyou.com
 127.0.0.1       static.mediav.com
 127.0.0.1       material.mediav.com 
@@ -17,5 +17,5 @@
 127.0.0.1       snippet.pos.baidu.com
 127.0.0.1       cb.baidu.com
 127.0.0.1       cpro.baidustatic.com
-
+127.0.0.1       hm.baidu.com
 ##ADS end
